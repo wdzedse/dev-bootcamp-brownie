@@ -1,6 +1,6 @@
 
-![Alt text](img/p1.png)
-![Alt text](img/p2.png)
+![Alt text](img/p1.PNG)
+![Alt text](img/p2.PNG)
 
 Still have to normalize the 2 price values for comparison, since one is formated as 10^18 and the other is a different length.
 <br>

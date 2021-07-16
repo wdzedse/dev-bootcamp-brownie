@@ -1,10 +1,16 @@
+
+![Alt text](img/p1.png)
+![Alt text](img/p2.png)
+
+Still have to normalize the 2 price values for comparison, since one is formated as 10^18 and the other is a different length.
+<br>
+<br>
 # chainlink-mix
-
 > NOTE: This has been recently updated for better compatibility with local blockchains. Check out the scripts to learn more.
-
 
 <br/>
 <p align="center">
+
 <a href="https://chain.link" target="_blank">
 <img src="https://raw.githubusercontent.com/smartcontractkit/chainlink-mix/master/img/chainlink-brownie.png" width="225" alt="Chainlink Brownie logo">
 </a>
